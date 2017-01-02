@@ -1,0 +1,26 @@
+{
+  "name": "RESTful_API_w_node-restful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ev2900/RESTful_API_w_node-restful.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ev2900/RESTful_API_w_node-restful"
+  },
+  "homepage": "https://github.com/ev2900/RESTful_API_w_node-restful#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.17",
+    "node-restful": "^0.2.5",
+    "nodemon": "^1.9.2"
+  }
+}
