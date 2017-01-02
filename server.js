@@ -4,8 +4,8 @@ var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 var node_restful = require('node-restful');
 
-// MongoDB
-mongoose.connect('mongodb://localhost/parking_bee');
+// MongoDB (helpful hint. if this data base does not exist I will create it for you)
+mongoose.connect('mongodb://localhost/database');
 
 // Express
 var app = express();
