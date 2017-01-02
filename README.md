@@ -1,2 +1,2 @@
 # RESTful API w node-restful
-A minimal utalization of the node-restul library to create an API with GET, POST, PUT and DELETE functionality. 
+A minimal utalization of the node-restul library to create an API with GET, POST, PUT and DELETE functionality. [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uNTH2AO8LCA/0.jpg)](https://www.youtube.com/watch?v=uNTH2AO8LCAHOcUahGZXYU
