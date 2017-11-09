@@ -3,7 +3,7 @@ A implementation of the node-restful library. A restful API with GET, POST, PUT 
 
 Preview
 
-
+[PREVIEW](http://13.92.254.20:9003/api/spots)
 
 Video
 
