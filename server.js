@@ -18,5 +18,5 @@ app.use(bodyParser.json());
 app.use('/api', require('./routes/api'));
 
 // Start server
-app.listen(9000);
-console.log('API is running on port 9000');
+app.listen(9003);
+console.log('API is running on port 9003');
