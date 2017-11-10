@@ -1,5 +1,5 @@
 # RESTful API w node-restful
-A implementation of the node-restful library. A restful API with GET, POST, PUT and DELETE functionality built on a MongoDB databse model.
+An implementation of the node-restful library. A restful API with GET, POST, PUT and DELETE functionality built on a MongoDB databse model.
 
 Preview
 
